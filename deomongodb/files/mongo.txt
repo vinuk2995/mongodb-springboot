@@ -1,0 +1,6 @@
+hi
+mongo
+db
+bye
+hi
+hi

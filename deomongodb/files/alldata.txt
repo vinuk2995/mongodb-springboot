@@ -1,0 +1,4 @@
+hi
+hello i am in mongo db 
+hello i am reading mongo db
+bye
